@@ -1,4 +1,8 @@
-# 👋 Olá, eu sou o Marcos Paulo Cambiaghi
+# 👋 Olá! Eu sou o Marcos Paulo Cambiaghi
+📱 Desenvolvedor Android em formação  
+💻 Aprendendo **Java**, **Kotlin** e **Android Studio**
+🚀 Criando meus primeiros aplicativos e explorando o mundo mobile!
+
 
 Sou apaixonado por tecnologia e desenvolvimento web. Atualmente focado em aprender e evoluir com **HTML • CSS • JavaScript • Node.js • Bootstrap • Linux**.
 
