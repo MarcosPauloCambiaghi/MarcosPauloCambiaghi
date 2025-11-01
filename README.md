@@ -6,7 +6,7 @@
 🚀 Criando meus primeiros aplicativos e explorando o mundo mobile!
 
 Sou apaixonado por tecnologia e desenvolvimento web.  
-Atualmente focado em aprender e evoluir com **HTML • CSS • JavaScript • Node.js • Bootstrap • Linux**.
+Atualmente focado em aprender e evoluir com ** Linux • Java • Kotlin • Android Studio**.
 
 ---
 
@@ -52,7 +52,7 @@ Atualmente focado em aprender e evoluir com **HTML • CSS • JavaScript • No
 
 - ✉️ **Email:** [mpcambiaghi80@gmail.com](mailto:mpcambiaghi80@gmail.com)  
 - 🔗 **LinkedIn:** [linkedin.com/in/marcos-paulo-cambiaghi](https://www.linkedin.com/in/marcos-paulo-cambiaghi-/?trk=opento_sprofile_topcard)  
-- 🌐 Ou fique à vontade para abrir uma *issue* neste perfil ou enviar uma mensagem aqui no GitHub.
+- 🌐 Ou fique à vontade para enviar uma mensagem aqui no GitHub.
 
 ---
 
