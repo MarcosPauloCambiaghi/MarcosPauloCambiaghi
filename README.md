@@ -49,7 +49,14 @@ Atualmente focado em aprender e evoluir com **HTML • CSS • JavaScript • No
 
 <div align="center">
   
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MarcosPauloCambiaghi&show_icons=true&theme=tokyonight&title_color=3DDC84&icon_color=3DDC84&hide_border=true&bg_color=0D1117)
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MarcosPauloCambiaghi&show_icons=true&theme=radical&title_color=3DDC84&icon_color=3DDC84&hide_border=true&bg_color=0D1117"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosPauloCambiaghi&layout=compact&langs_count=7&theme=radical&title_color=3DDC84&hide_border=true&bg_color=0D1117"/>
+
+</div>
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosPauloCambiaghi&layout=compact&theme=tokyonight&title_color=3DDC84&hide_border=true&bg_color=0D1117)
 
