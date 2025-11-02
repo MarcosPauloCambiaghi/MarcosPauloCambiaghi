@@ -26,6 +26,8 @@ Antes de entrar no mundo mobile, estudei e pratiquei **HTML, CSS, JavaScript, No
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
 ![Linux (Ubuntu)](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)
 
 
