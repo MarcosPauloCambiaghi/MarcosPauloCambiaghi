@@ -45,14 +45,51 @@ Atualmente focado em aprender e evoluir com **HTML • CSS • JavaScript • No
 - 🔹 **[AulaCalculadoraIMC](https://github.com/MarcosPauloCambiaghi/AulaCalculadoraIMC)** — Aplicativo Android em Kotlin para cálculo do IMC.
 
 ---
+## 📊 Estatísticas do GitHub
 
-## 📊 Estatísticas
+<div align="center">
+  
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MarcosPauloCambiaghi&show_icons=true&theme=tokyonight&title_color=3DDC84&icon_color=3DDC84&hide_border=true&bg_color=0D1117)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcosPauloCambiaghi&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosPauloCambiaghi&layout=compact&theme=tokyonight)
-![Profile Views](https://komarev.com/ghpvc/?username=MarcosPauloCambiaghi&color=3DDC84&style=flat)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosPauloCambiaghi&layout=compact&theme=tokyonight&title_color=3DDC84&hide_border=true&bg_color=0D1117)
+
+</div>
 
 ---
+
+## 🧠 Tecnologias que já estudei e utilizei
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
+![Linux (Ubuntu)](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)
+
+---
+
+## 🚀 Tecnologias que estou estudando atualmente
+
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=androidstudio&logoColor=white)
+
+---
+
+## 🧩 Ambiente de desenvolvimento
+
+- 💻 **Sistema operacional:** Ubuntu Linux  
+- 🧰 **Editor principal:** Android Studio  
+- 🌐 **Implantação:** Vercel  
+- 🗄️ **Banco de dados:** MySQL  
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=MarcosPauloCambiaghi&color=3DDC84&style=flat)
+
+
 
 ## 🌐 Conecte-se comigo
 
