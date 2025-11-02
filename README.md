@@ -1,3 +1,6 @@
+<!-- Banner no topo -->
+![Marcos Paulo Cambiaghi](https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,100:007396&height=200&section=header&text=Marcos%20Paulo%20Cambiaghi%20👨‍💻&fontColor=ffffff&fontSize=35&fontAlignY=35)
+
 # 👋 Olá! Eu sou o **Marcos Paulo Cambiaghi**
 
 📱 **Desenvolvedor Android em formação**  
@@ -6,7 +9,7 @@
 🚀 Criando meus primeiros aplicativos e explorando o mundo mobile!
 
 Sou apaixonado por tecnologia e desenvolvimento web.  
-Atualmente focado em aprender e evoluir com ** Linux • Java • Kotlin • Android Studio**.
+Atualmente focado em aprender e evoluir com **HTML • CSS • JavaScript • Node.js • Bootstrap • Linux • PHP • Python**.
 
 ---
 
@@ -28,6 +31,8 @@ Atualmente focado em aprender e evoluir com ** Linux • Java • Kotlin • And
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=androidstudio&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 
 ---
@@ -45,16 +50,28 @@ Atualmente focado em aprender e evoluir com ** Linux • Java • Kotlin • And
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcosPauloCambiaghi&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosPauloCambiaghi&layout=compact&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=MarcosPauloCambiaghi&color=3DDC84&style=flat)
 
 ---
 
-## 📫 Contato
+## 🌐 Conecte-se comigo
 
-- ✉️ **Email:** [mpcambiaghi80@gmail.com](mailto:mpcambiaghi80@gmail.com)  
-- 🔗 **LinkedIn:** [linkedin.com/in/marcos-paulo-cambiaghi](https://www.linkedin.com/in/marcos-paulo-cambiaghi-/?trk=opento_sprofile_topcard)  
-- 🌐 Ou fique à vontade para enviar uma mensagem aqui no GitHub.
+<p align="left">
+  <a href="mailto:mpcambiaghi80@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/marcos-paulo-cambiaghi-/?trk=opento_sprofile_topcard" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/MarcosPauloCambiaghi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
 💬 **Obrigado por visitar meu perfil!**  
-Fique à vontade para explorar meus repositórios, colaborar ou simplesmente dar um 👋
+Fique à vontade para explorar meus repositórios, colaborar ou simplesmente dar um 👋  
+
+<!-- Rodapé estilizado -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:007396,100:3DDC84&height=100&section=footer)
